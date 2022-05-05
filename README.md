@@ -2,7 +2,7 @@
 
 My name is Wiktor Wiśniewski. I live in Nysa, Poland 🇵🇱
 
-- Currently I'm front-end developer at [mohi.to](https://mohi.to/) working on Shopify stores. I have gained experience in full stack role working in IBM/Oracle product ecosystems. 💻
+- Currently I'm front-end developer at [mohi.to](https://mohi.to/) working on Shopify stores. I have gained experience in full stack role working in IBM/Oracle ecosystems. 💻
 - I'm aiming for performant web sites and apps ⚡
 - Coding is my hobby and clean code is a must have
 - JavaScript since ES5 rocks ⭐
