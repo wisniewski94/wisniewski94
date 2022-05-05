@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Wiktor Wiśniewski. I live in Nysa, Poland 🇵🇱
+
 <!--
 **wisniewski94/wisniewski94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
