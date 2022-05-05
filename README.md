@@ -2,17 +2,19 @@
 
 My name is Wiktor Wiśniewski. I live in Nysa, Poland 🇵🇱
 
-<!--
-**wisniewski94/wisniewski94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently I'm front-end developer at [mohi.to](https://mohi.to/) working on Shopify stores. I have gained experience in full stack role working in IBM/Oracle product ecosystems. 💻
+- I'm aiming for performant web sites and apps ⚡
+- Coding is my hobby and clean code is a must have
+- JavaScript since ES5 rocks ⭐
 
-Here are some ideas to get you started:
+## Playground 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [8 Puzzle Game](https://www.wiktorwisniewski.dev/puzzle) 🎲 (solver included!)
+
+
+## Blog Posts
+
+- [Build lightweight and performant Carousel using pure JavaScript](https://www.wiktorwisniewski.dev/blog/build-simple-javascript-slider) 🔥
+- [How to create a router for a custom SPA App](https://www.wiktorwisniewski.dev/blog/how-to-create-router-library) 🔥
+- [Preloading assets with Webpack 5](https://www.wiktorwisniewski.dev/blog/preloading-assets-with-webpack5)
+- [How to use the Mac TouchBar API in Electron](https://www.wiktorwisniewski.dev/blog/mac-touch-bar-api)
